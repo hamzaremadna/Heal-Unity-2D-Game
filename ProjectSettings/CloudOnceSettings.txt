@@ -1,0 +1,28 @@
+{
+	"AchievementIDs":[
+		{
+			"InternalID":"NotBad",
+			"AppleID":"",
+			"GoogleID":"CgkIp-yU8PkEEAIQAQ"
+		},
+		{
+			"InternalID":"ThatsOnlytheBeginning",
+			"AppleID":"",
+			"GoogleID":"CgkIp-yU8PkEEAIQAg"
+		},
+		{
+			"InternalID":"KillthemAll",
+			"AppleID":"",
+			"GoogleID":"CgkIp-yU8PkEEAIQCA"
+		}
+	],
+	"LeaderboardIDs":[],
+	"CloudVariables":[],
+	"AppleSupported":false,
+	"GoogleSupported":true,
+	"GoogleAppID":"170154866215",
+	"GoogleSetupRun":true,
+	"DebugModeEnabled":false,
+	"Version":"2.6.8",
+	"SettingsLocation":"0"
+}
